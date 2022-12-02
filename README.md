@@ -7,6 +7,8 @@
 I am a professional full-stack, web developer.
 I develop a website and page for my customer and solve the problems and give the best result to them.
 
+<p align="left"> <a href="https://twitter.com/themahidul" target="blank"><img src="https://img.shields.io/twitter/follow/themahidul?logo=twitter&style=for-the-badge" alt="themahidul" /></a> </p>
+
 Skills: HTML / CSS / JAVASCRIPT / BOOTSTRAP / JQUERY / PHP / LARAVEL
 
 - 🔭 I’m currently working on Fiverr and Up-Work 
